@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning and exploring in Full Stack Web Development
 - 🥅 2021 Goals: Contribute more to my projects and stay active in Github
 <br /><br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksanwaria&label=Viewrs&color=0e75b6&style=flat" alt="Deepak Agarwal' View" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksanwaria&label=Viewers&color=0e75b6&style=flat" alt="Deepak Agarwal' View" /> </p>
 <br />
 
 ## Connect with me:
